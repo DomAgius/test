@@ -4,3 +4,5 @@ Thomas	Buttigi	365		24524642
 Jacob	Buttigi	365		22324324
 Joseph	Agius	654		23525435
 Gabe	Cilia	322		21242334
+Jeremy	Buttigi 324		25435355
+Andre	Attard	525		26435432
