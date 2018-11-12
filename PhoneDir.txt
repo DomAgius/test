@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-Name	Surname	Country Code	Phone
-Dodo	Bird	365		25425334
-Thomas	Buttigi	365		24524642
-Jacob	Buttigi	365		22324324
-Joseph	Agius	654		23525435
-Gabe	Cilia	322		21242334
 
-=======
 Name	Surname	Country Code	Phone		Email
 Dodo	Bird	365		25425334	dodo@gmail.com
 Thomas	Buttigi	365		24524642	thomas@gmail.com
@@ -15,4 +7,4 @@ Joseph	Agius	654		23525435	joeph@ilearn.edu.mt
 Gabe	Cilia	322		21242334	cilia@gmail.com
 Jeremy	Buttigi 324		25435355	jeremy@gmail.com
 Andre	Attard	525		26435432	andre@gmail.com
->>>>>>> Email
+
