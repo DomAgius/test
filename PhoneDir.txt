@@ -1,1 +1,6 @@
 Name	Surname	Country Code	Phone
+Dodo	Bird	365		25425334
+Thomas	Buttigi	365		24524642
+Jacob	Buttigi	365		22324324
+Joseph	Agius	654		23525435
+Gabe	Cilia	322		21242334
